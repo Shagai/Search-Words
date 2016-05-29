@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jcama\\AndroidStudioProjects\\Search\\openCVTutorial3CameraControl\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 58,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\Jcama\\AndroidStudioProjects\\Search\\openCVTutorial3CameraControl\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]
