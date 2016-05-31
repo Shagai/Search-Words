@@ -1,0 +1,3 @@
+include ':openCVLibrary310'
+include ':openCVTutorial3CameraControl'
+include ':tess-two'
